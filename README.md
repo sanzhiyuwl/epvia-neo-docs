@@ -83,11 +83,11 @@ Epvia Neo 采用前后端分离架构，以现代化的技术栈构建：
 
 无论你是想了解进展、交流想法，还是寻求合作，这里都有你的位置。
 
-- **QQ 群号**：`136157987`
+- **QQ 群号**：`632585359`
 
 <div align="center">
 
-<img alt="QQ 交流群二维码" src="./assets/group-qr.png" width="200" />
+<img alt="QQ 交流群二维码" src="./assets/group-qr.jpg" width="200" />
 
 <sub>扫码加入 Epvia Neo QQ 交流群</sub>
 
