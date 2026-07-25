@@ -75,44 +75,13 @@ Epvia Neo 采用前后端分离架构，以现代化的技术栈构建：
 
 ## 🖥️ 界面预览
 
-> 以下截图均取自项目演示环境，数据仅供展示。
+> 以下截图取自项目演示环境，数据仅供展示。
 
 <div align="center">
-
-<b>官网门面</b>
 
 <img alt="官网首页" src="./assets/shot-home.png" width="90%" />
 
 <sub>官网首页 · 品牌门面与产品介绍</sub>
-
-<table>
-  <tr>
-    <td width="50%"><img alt="资讯中心" src="./assets/shot-news.png" /><br/><sub>资讯中心</sub></td>
-    <td width="50%"><img alt="开发文档" src="./assets/shot-docs.png" /><br/><sub>开发文档</sub></td>
-  </tr>
-</table>
-
-<br/>
-
-<b>管理后台</b>
-
-<table>
-  <tr>
-    <td width="50%"><img alt="管理后台" src="./assets/shot-admin.png" /><br/><sub>运营控制台</sub></td>
-    <td width="50%"><img alt="后台登录" src="./assets/shot-admin-login.png" /><br/><sub>后台登录</sub></td>
-  </tr>
-</table>
-
-<br/>
-
-<b>商户中心</b>
-
-<table>
-  <tr>
-    <td width="50%"><img alt="商户中心" src="./assets/shot-merchant.png" /><br/><sub>商户自助中心</sub></td>
-    <td width="50%"><img alt="商户登录" src="./assets/shot-merchant-login.png" /><br/><sub>商户登录</sub></td>
-  </tr>
-</table>
 
 </div>
 
